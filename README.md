@@ -1,0 +1,1 @@
+# weaviate-cohere-integration
